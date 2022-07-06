@@ -18,7 +18,7 @@
     "marked": ">=0.3.18",
     "method-override": "2.3.10",
     "mime": "1.4.1",
-    "moment": "2.19.3",
+    "moment": "2.29.4",
     "morgan": ">=1.9.1",
     "mpath": ">=0.5.1",
     "node.extend": ">=2.0.1",
